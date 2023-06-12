@@ -1,4 +1,4 @@
-TRUNCATE TABLE albums;
+TRUNCATE albums;
 
 -- INSERT INTO albums (artist, name, release_date, sales, genre) VALUES ('Michael Jackson', 'Thriller', 1982, 51, 'Pop');
 -- INSERT INTO albums (artist, name, release_date, sales, genre) VALUES ('AC/DC', 'Back in Black', 1980, 30, 'Hard rock');
